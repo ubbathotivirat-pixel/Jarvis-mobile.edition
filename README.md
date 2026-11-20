@@ -1,2 +1,2 @@
-# Jarvis-mobile.edition
+# Jarvis-mobile-edition
 My jarvis
